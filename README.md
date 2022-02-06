@@ -11,7 +11,7 @@ Feel free to fork the project, manipulate or change it to suit your own custom n
 
 - **[Starter Kit](https://laravel.com/docs/8.x)**
 - **[Sanctum](https://laravel.com/docs/8.x/sanctum)**
-- **[Uuid as an option]**
+- Uuid (optional)
 
 If you want to use Uuid as the default for any model, use the HasUuid trait and add it on your models. (remember to customize the migration to $table->Uuid('id')->primary())
 
